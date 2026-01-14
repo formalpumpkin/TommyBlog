@@ -31,7 +31,7 @@ body#index {
     background-color: #3a160d;
 }
 body#aero {
-  background-image: url('assets/mac_os_2.jpg');
+  background-image: url('Assets/mac_os_2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -100,4 +100,5 @@ div#radio{
 img{
     width: 40%;
 }
+
 
