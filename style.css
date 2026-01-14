@@ -1,0 +1,101 @@
+.caption{
+    font-size: 20px;
+    text-align: center;
+}
+li{
+    color: white;
+    font-size: 40px;
+    text-align: left;
+}
+p {
+    text-align: left;
+    color: white;
+    font-size: 40px;
+    margin: 20px;
+}
+a {
+    text-align: left;
+    color: lightblue;
+    font-size: 40px;
+    margin: 20px;
+}
+h1 {
+    font-size:150px;
+    color: white;
+}
+h2 {
+    font-size:75px;
+    color: white;
+}
+body#index {
+    background-color: #3a160d;
+}
+body#aero {
+  background-image: url('assets/mac_os_2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h2#aero{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+    background: linear-gradient(to bottom,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    border-radius: 30px;
+    border: 1px solid lightblue;
+    margin: 30px 100px;;
+    font-size:75px;
+    color: white;
+}
+div#aeroborder{
+background: rgba(100,100,100,.63);
+  box-shadow: rgba(0,0,0,.3) 0 3px 8px;
+  padding: 10px 10px 10px 10px;
+  max-width: 935px;
+  border: 1px solid rgba(140,140,140,0.8);
+}
+div#aero{
+background: rgba(20,20,20,.90);
+  box-shadow: rgba(0,0,0,.3) 0 3px 8px;
+  padding: 10px 10px 10px 10px;
+  max-width: 935px;
+  border: 1px solid #4b4b4b;
+}
+img#title {
+    image-rendering: pixelated;
+    width: 100%;
+    margin: 0 auto;
+}
+img#transition {
+    image-rendering: pixelated;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -8px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: -8px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.radiotitle {
+  position: absolute;
+  top: 0%;
+  left: 55%;
+  text-align: left;
+}
+img#radio {
+    image-rendering: pixelated;
+    width: 100%;
+    margin: 0 auto;
+}
+div#radio{
+    position: relative;
+}
+img{
+    width: 40%;
+}
