@@ -87,6 +87,7 @@ img#transition {
   top: 0%;
   left: 55%;
   text-align: left;
+    font-size: 100px;
 }
 img#radio {
     image-rendering: pixelated;
@@ -99,3 +100,4 @@ div#radio{
 img{
     width: 40%;
 }
+
