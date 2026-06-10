@@ -31,7 +31,7 @@ body#index {
     background-color: #3a160d;
 }
 body#aero {
-  background-image: url('Assets/chapel.jpg');
+  background-image: url('Assets/mac_os_2.jpg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -43,7 +43,7 @@ body#forest {
   background-size: cover;
 }
 body#chapel {
-  background-image: url('Assets/chapel.png');
+  background-image: url('Assets/skyspekles.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
