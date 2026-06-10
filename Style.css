@@ -43,7 +43,7 @@ body#forest {
   background-size: cover;
 }
 body#chapel {
-  background-image: url('Assets/skyspekles.png');
+  background-image: url('Assets/chapel.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
