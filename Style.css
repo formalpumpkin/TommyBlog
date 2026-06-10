@@ -42,12 +42,6 @@ body#forest {
   background-attachment: fixed;
   background-size: cover;
 }
-body#plane {
-  background-image: url('Assets/plane.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
 body#chapel {
   background-image: url('Assets/chapel.png');
   background-repeat: no-repeat;
