@@ -49,7 +49,7 @@ body#plane {
   background-size: cover;
 }
 body#chapel {
-  background-image: url('Assets/chapel.jpg');
+  background-image: url('Assets/chapel.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
